@@ -19,6 +19,10 @@
 <img width='110px' height='200px' src='https://gitee.com/gankai/vue-jd-h5/raw/master/src/assets/image/search_img.jpg' />
 </div>
 
+个人博客网站与需要的可以参考：https://geekskai.com/
+
+GitHub 地址：https://github.com/geekskai/blog
+
 # vue3-jd-h5
 
 <p align='center'>
@@ -44,7 +48,7 @@
 
 🔑 本项目是免费开源的，如果有伙伴想要在次基础上进行二次开发，可以 clone 或者 fork 整个仓库，如果能帮助到您，我将感到非常高兴，如果您觉得这个项目不错还请给个 start！🙏
 
-💥 2024 年 Vue3.x ,Vite5.x, Vant,TypeScript 最新版本更新分支：👉 <a target='_blank' href='https://github.com/geekskai/vue3-jd-h5/tree/vue3-vite-vant-ts'>vue3-vite-vant-ts</a>
+💥 2025 年 Vue3.x ,Vite5.x, Vant,TypeScript 最新版本更新分支：👉 <a target='_blank' href='https://github.com/geekskai/vue3-jd-h5/tree/vue3-vite-vant-ts'>vue3-vite-vant-ts</a>
 
 🎉 如果您乐意捐赠，我们也非常欢迎，可以通过以下渠道进行捐款：
 

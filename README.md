@@ -21,6 +21,10 @@
 
 https://user-images.githubusercontent.com/37830362/173991179-71272ccb-bf69-441f-8f15-46e8da403d2a.mov
 
+Personal blog site with the need can refer to: https://geekskai.com/
+
+GitHub address: https://github.com/geekskai/blog
+
 # vue3-jd-h5
 
 <p align='center'>
@@ -46,7 +50,7 @@ https://user-images.githubusercontent.com/37830362/173991179-71272ccb-bf69-441f-
 
 🔑 This project is free and open source. If you have a partner who wants to carry out secondary development on a secondary basis, you can clone or fork the entire warehouse. If it can help you, I will be very happy. If you think this project is good, please give it back Start! 🙏
 
-💥 2024 Vue3.x ,Vite5.x, Vant,TypeScript latest version update branch: 👉 <a target='_blank' href='https://github.com/geekskai/vue3-jd-h5/tree/vue3-vite-vant-ts'>vue3-vite-vant-ts</a>
+💥 2025 Vue3.x ,Vite5.x, Vant,TypeScript latest version update branch: 👉 <a target='_blank' href='https://github.com/geekskai/vue3-jd-h5/tree/vue3-vite-vant-ts'>vue3-vite-vant-ts</a>
 
 ## Vue3 build steps
 
